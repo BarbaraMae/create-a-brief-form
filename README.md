@@ -1,4 +1,3 @@
 # Create-A-Brief Form
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/barbaramae/pen/VwRVNdZ](https://codepen.io/barbaramae/pen/VwRVNdZ).
-
+A form to build a mini creative brief with all the important details a new team member might need to assist with an on-going project.
